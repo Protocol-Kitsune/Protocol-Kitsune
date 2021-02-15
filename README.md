@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding in general and Chess
 - 🌱 I’m currently learning nothing but i do know bits of C# and python i want to learn more though
 - 💞️ I’m looking to collaborate on Coding projects so i can learn more
-- 📫 How to reach me parksmason222@gmail.com it may take a while to reach me...
+- 📫 How to reach me parksmason05@gmail.com it may take a while to reach me...
 
 <!---
 Protocol-Kitsune/Protocol-Kitsune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
